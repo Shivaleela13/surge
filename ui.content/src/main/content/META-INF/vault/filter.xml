@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/devil" mode="merge"/>
+    <filter root="/content/devil" mode="merge"/>
+    <filter root="/content/dam/devil" mode="merge"/>
+    <filter root="/content/experience-fragments/devil" mode="merge"/>
+</workspaceFilter>
